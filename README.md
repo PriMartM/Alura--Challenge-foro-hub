@@ -77,7 +77,7 @@ Response:
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 }
 ```
-📌 Gestión de Tópicos
+##📌 Gestión de Tópicos
 POST /topicos → Crear tópico (requiere JWT)
 
 GET /topicos → Listar todos (público)
